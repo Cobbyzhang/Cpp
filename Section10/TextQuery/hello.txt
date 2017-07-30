@@ -1,0 +1,6 @@
+This is Cobby Zhang's text
+Please take care of it and never add any comma or other character which is not aalphabet
+This text consists of only six lines of words 
+It is just for test so it is very simple
+I would do more job to improve this program to make it be able to deal with initial word and some other character such as comma
+But the initial version only copy the code in text book C++ primer

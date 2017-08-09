@@ -6,4 +6,4 @@ TextQuery.o: TextQuery.cpp TextQuery.h
 main.o: main.cpp TextQuery.h
 	g++ -c main.cpp
 clean:
-	-rm -f main $(OBJS)
+	rm -f main $(OBJS)
